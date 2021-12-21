@@ -111,11 +111,7 @@ html{
   background-position: center;
 }
 
-.navbar a:hover:nth-child(5) ~ .background-image{
-  background: url(../images/nav-img-5.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-}
+
 
 
 @media (max-width:768px){
